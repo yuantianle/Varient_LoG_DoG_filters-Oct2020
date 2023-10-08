@@ -48,7 +48,11 @@
 |-|-|-|-|
 |![image](https://github.com/yuantianle/Varient_LoG_DoG_filters-Oct2020/assets/61530469/e1445437-a638-441b-bc53-9982884abaee)|![image](https://github.com/yuantianle/Varient_LoG_DoG_filters-Oct2020/assets/61530469/38d876af-b25f-4755-86d0-b7ce60c5b1fd)|![image](https://github.com/yuantianle/Varient_LoG_DoG_filters-Oct2020/assets/61530469/7712d051-d51d-4df7-95af-2a699d4b3a81)|![image](https://github.com/yuantianle/Varient_LoG_DoG_filters-Oct2020/assets/61530469/fff90c6e-3d3f-4f43-b55b-c59555c78e71)|
 
-## 7.  filter
+## 9. LoG/DoG filter
+|Original Picture| Filtered Result|
+|-|-|
+|![d4365439aec22a127ba31b36399926d](https://github.com/yuantianle/Varient_LoG_DoG_filters-Oct2020/assets/61530469/72e4dcfa-0501-431e-b828-a10281edc4f0)|![546cc9a44274d19a1bfd81dc2af1c3e](https://github.com/yuantianle/Varient_LoG_DoG_filters-Oct2020/assets/61530469/c4e9f76d-372f-4ebb-b968-3a3553b0fa83)|
+
 
 |Original Picture| Filtered Result|
 |-|-|
